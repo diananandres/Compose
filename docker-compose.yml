@@ -12,4 +12,4 @@
    salient:
      build: ./salient
      ports:
-       - 8081:81
+       - 8081:80
